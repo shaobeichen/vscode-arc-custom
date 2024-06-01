@@ -43,6 +43,12 @@
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   font-weight: 700;
+  font-style: italic;
+}
+
+/* html标签 */
+.mtk10 {
+  font-weight: 700;
 }
 
 /* css属性 */
